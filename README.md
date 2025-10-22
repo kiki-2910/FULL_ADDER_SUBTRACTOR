@@ -48,8 +48,10 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![WhatsApp Image 2025-10-19 at 14 29 12_4ef42f4c](https://github.com/user-attachments/assets/7a106324-2ade-410c-a5a8-1cdea6c03da2)
 
 **Output Timing Waveform**
+![WhatsApp Image 2025-10-19 at 14 29 34_878002bd](https://github.com/user-attachments/assets/67854aa2-c761-448a-8a66-46a2a0b6a416)
 
 **Result:**
 
